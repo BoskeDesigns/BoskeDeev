@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoskeDeev
-- 👀 Android Developer & UI/UX Designer
+- 💻 Android Developer & UI/UX Designer
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
